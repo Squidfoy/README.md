@@ -1,2 +1,2 @@
-[Title Page](titlePage.md)
+[Title Page](titlePage.md)  
 [Pictures](pictures.md)
