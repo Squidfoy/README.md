@@ -5,6 +5,8 @@
 * All squid have **three** hearts
 * A squid moves through the water tail-first, rather than head-first.
 * One of a squids defence mechanisms is its ink sac, which can rapidly release a black substance
+  
+  ---
 
 For the sake of using a table, I will put some facts in a table:
 | Fact | Fact pt2|
