@@ -12,4 +12,6 @@ For the sake of using a table, I will put some facts in a table:
 | Fact | Fact pt2|
 | --- | --- |
 |Squids have beaks| This beak cannot be digested by other animals|
-|Some squids glow in the dark| This is due to ***bioluminescent*** organs|
+|Some squids glow in the dark| This is due to ***bioluminescent*** organs|  
+
+How I feel about squids --> 😃
